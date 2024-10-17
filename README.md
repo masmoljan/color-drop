@@ -5,7 +5,7 @@ drag and drop functionality, along with the ability to manually enter colors
 in HEX format.
 
 ## Demo page
-[Vercel](color-drop-kappa.vercel.app)
+[Vercel](https://color-drop-kappa.vercel.app)
 
 ## Installation
 
