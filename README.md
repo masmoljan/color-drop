@@ -5,7 +5,7 @@ drag and drop functionality, along with the ability to manually enter colors
 in HEX format.
 
 ## Demo page
-[Vercel]().
+[Vercel](color-drop-kappa.vercel.app)
 
 ## Installation
 
@@ -25,3 +25,7 @@ Follow these steps to run the project locally:
 ```bash
   npm run start
 ```
+
+#### Built With:
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
